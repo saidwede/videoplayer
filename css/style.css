@@ -24,10 +24,10 @@
     box-shadow: none;
 }
 .noUi-connect {
-	background-color: #ffffff
+	background-color: #43d3ff
 }
 .noUi-connects {
-    background-color: #ffffff62;
+    background-color: #43d3ff62;
     height: 5px;
     transition: all 0.3s ease-in-out;
     position: absolute;
